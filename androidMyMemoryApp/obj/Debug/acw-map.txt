@@ -1,0 +1,4 @@
+androidMyMemoryApp.MainActivity, androidMyMemoryApp;md50304e4be0de21b4e165cccdbfcf3d29b.MainActivity
+androidMyMemoryApp.MainActivity, androidMyMemoryApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50304e4be0de21b4e165cccdbfcf3d29b.MainActivity
+androidMyMemoryApp.MainActivity;md50304e4be0de21b4e165cccdbfcf3d29b.MainActivity
+androidmymemoryapp.MainActivity;md50304e4be0de21b4e165cccdbfcf3d29b.MainActivity

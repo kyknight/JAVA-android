@@ -1,0 +1,2 @@
+android.app.Application
+com.kyknight.my_memory_app

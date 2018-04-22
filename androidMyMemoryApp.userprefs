@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D6885A16-DC62-46FB-9B18-5BB03891CB98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="androidMyMemoryApp/MainActivity.cs">
+    <Files>
+      <File FileName="androidMyMemoryApp/MainActivity.cs" Line="186" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.androidMyMemoryApp AndroidDesignerPreferredDevice="Nexus 5X" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Holo.Light.NoActionBar" />
+  <MultiItemStartupConfigurations />
+</Properties>
